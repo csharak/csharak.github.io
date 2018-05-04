@@ -14,7 +14,7 @@
   <div>
     <p>Click on your choice of meat.</p>
     <ul>
-    <li><a href="https://www.youtube.com/">Ham</a></li>
+    <li><a href="https://www.seriouseats.com/recipes/images/20101215-ham-tasting-primary.jpeg">Ham</a></li>
     <li>Turkey</li>
     <li>Chicken</li>
     <li>Brisket</li>
