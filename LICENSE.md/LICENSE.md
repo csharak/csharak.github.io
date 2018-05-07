@@ -15,7 +15,7 @@
     <p>Click on your choice of meat.</p>
     <ul>
     <li><a href="https://www.seriouseats.com/recipes/images/20101215-ham-tasting-primary.jpeg">Ham</a></li>
-    <li><a href="https://www.foodnetwork.com/recipes/food-network-kitchen/basic-turkey-3361629">Turkey</a></li>
+    <li><a href="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/10/4/1/FNM_110110-Basic-Turkey-Recipe_s4x3.jpg.rend.hgtvcom.616.462.suffix/1381170719103.jpeg">Turkey</a></li>
     <li>Chicken</li>
     <li>Brisket</li>
     <li>BBQ</li>
