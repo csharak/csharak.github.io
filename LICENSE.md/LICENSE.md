@@ -25,7 +25,7 @@
     <li>Fish</li>
     </ul>
   </div>
- <h3>Next the topings:</h3>
+ <h3>Next the toppings:</h3>
   <div>
     <ul>
     <li>Cheddar</li>
