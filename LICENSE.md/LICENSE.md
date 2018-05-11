@@ -25,17 +25,4 @@
     <li>Fish</li>
     </ul>
   </div>
- <h3>Next the toppings:</h3>
-  <div>
-    <ul>
-    <li>Cheddar</li>
-    <li>American Cheese</li>
-    <li>Pickels</li>
-    <li>Tomatoes</li>
-    <li>Lettuce</li>
-    <li>Onions</li>
-    <li>Sauteed Onions</li>
-    <li>Bacon</li>
-    <li>Roasted Peppers</li>
-    </ul>
-   </div>
+ 
