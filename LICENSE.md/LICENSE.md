@@ -7,11 +7,8 @@
 </head>
 <body>
   <div>
-    <p>This website is to create a sandwich that is to your preference and delicious</p>
+ <h2>Next, the meats:</h2>
   </div>
-  
- <h2>First, the meats:</h2>
-  <div>
     <p>Click on your choice of meat.</p>
     <ul>
     <li><a href="https://www.seriouseats.com/recipes/images/20101215-ham-tasting-primary.jpeg">Ham</a></li>
@@ -24,5 +21,5 @@
     <li>Lamb Spiedie</li>
     <li>Fish</li>
     </ul>
-  </div>
+ 
  
